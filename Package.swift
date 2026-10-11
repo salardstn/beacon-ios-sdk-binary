@@ -14,12 +14,12 @@ let package = Package(
         .binaryTarget(
             name: "BeaconSDK",
             url: "https://github.com/salardstn/beacon-ios-sdk-binary/releases/download/0.2.1/BeaconSDK.xcframework.zip",
-            checksum: "eaae4816ce628c77167b6c1c26c2f84c340de78d0c1c650fca0359eae5b363dc"
+            checksum: "01213d33f9960be58d09a44c7b860c6ef6eed65ab529d790a37053f6100b30ee"
         ),
         .binaryTarget(
             name: "BeaconNotificationServiceExtension",
             url: "https://github.com/salardstn/beacon-ios-sdk-binary/releases/download/0.2.1/BeaconNotificationServiceExtension.xcframework.zip",
-            checksum: "3bffa20a29ded711ed954c02fbbd7d7c18303a11c88dfe7639ba02ebe6f68ba7"
+            checksum: "66796593784b680e0b8fe101773bdbd4a4d18d76e7ec3278d3464969dfaaf0d6"
         ),
     ]
 )
